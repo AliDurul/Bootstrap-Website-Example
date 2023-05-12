@@ -1,0 +1,99 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Overpass', sans-serif;
+  font-size: 15px;
+
+}
+body {
+  background-color: hsl(216, 12%, 8%);
+  color: aliceblue;
+}
+.main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.main__box{
+    display: grid;
+    max-width: 400px;
+    background-color:hsl(213, 19%, 18%);
+    padding: 2rem;
+    gap: 20px;
+    border-radius: 30px;
+}
+
+header img{
+  background-color: rgba(18, 20, 23, 0.3);
+  padding: 1rem;
+  border-radius: 50%;
+}
+
+section .title{
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+section p{
+  color: hsla(0, 0%, 100%,0.4);
+
+  line-height: 1.7;
+  font-weight: 400;
+  font-size: 1rem;
+}
+.numbers{
+  display: flex;
+  justify-content: space-around;
+}
+.numbers .btn-nmb{
+  border: none;
+  height: 50px;
+  width: 50px;
+  background-color: #2e3944;
+  padding: 1rem;
+  border-radius: 50%;
+  color:  hsl(217, 12%, 63%);
+}
+.numbers .btn-nmb:hover{
+  background-color:  hsl(25, 97%, 53%);
+color: #fff;
+}
+.btn-sbm{
+  background-color:  hsl(25, 97%, 53%);
+  padding: 0.5rem;
+  border-radius: 50px;
+  border: none;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+}
+.btn-sbm:hover{
+background-color: #fff;
+color: hsl(25, 97%, 53%);
+}
+.btn-nmb:focus {
+  background-color: hsl(216, 12%, 54%);;
+  color: #fff;
+}
+.second{
+  text-align: center;
+}
+.second img{
+  margin: 0 auto;
+  width: 50%;
+}
+.second div{
+  color: rgb(255, 123, 0);
+  background-color: rgba(18, 20, 23, 0.3);
+  width: 200px;
+  margin: 0 auto;
+  border-radius: 20px;
+  padding: 0.5rem;
+}
