@@ -17,10 +17,11 @@ In this project, I have utilized several languages to bring it to life. The prim
 - CSS Grid
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [Interactive rating component](https://alidurul.github.io/Frontend-Mentor-Projects/Interactive%20rating%20component/)
+- 
+##Author
+- Frontend Mentor - [@AliDurul](https://www.frontendmentor.io/profile/DURUL-26)
+- Githup - [@AliDurul](https://github.com/AliDurul)
 
 ## Feedback and Collaboration
 I value your feedback and suggestions. If you have any comments, questions, or ideas for improvement regarding this project or any of my other projects, please don't hesitate to reach out. I'm always open to collaboration and welcome the opportunity to work on exciting projects together.
