@@ -8,7 +8,6 @@ Firstly, I want to let you know that I am a new learner in the world of programm
 # Frontend Mentor - Interactive rating component solution
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
 
-
 ### Built with
 In this project, I have utilized several languages to bring it to life. The primary languages that I have worked with are:
 
@@ -21,14 +20,6 @@ In this project, I have utilized several languages to bring it to life. The prim
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-
-## Check Out My Other Projects
-If you enjoyed exploring this project, I invite you to check out my other projects as well. I am passionate about programming and have worked on a variety of exciting projects. Here are a few examples:
-
-[Project 1]: Brief description or title of project
-
-Feel free to explore these projects at your convenience. Each one offers a unique experience and showcases different aspects of my skills and interests.
 
 
 ## Feedback and Collaboration
