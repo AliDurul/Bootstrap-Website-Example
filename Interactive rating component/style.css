@@ -24,7 +24,7 @@ body {
 .main__box{
     display: grid;
     max-width: 400px;
-    background-color:hsl(213, 19%, 18%);
+    background: radial-gradient( farthest-side at top center, hsl(215deg, 17%, 15%), hsl(215deg, 27%, 12%) );
     padding: 2rem;
     gap: 20px;
     border-radius: 30px;
