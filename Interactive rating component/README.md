@@ -8,7 +8,6 @@ Firstly, I want to let you know that I am a new learner in the world of programm
 # Frontend Mentor - Interactive rating component solution
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
 
-
 ### Built with
 In this project, I have utilized several languages to bring it to life. The primary languages that I have worked with are:
 
@@ -18,18 +17,11 @@ In this project, I have utilized several languages to bring it to life. The prim
 - CSS Grid
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-
-## Check Out My Other Projects
-If you enjoyed exploring this project, I invite you to check out my other projects as well. I am passionate about programming and have worked on a variety of exciting projects. Here are a few examples:
-
-[Project 1]: Brief description or title of project
-
-Feel free to explore these projects at your convenience. Each one offers a unique experience and showcases different aspects of my skills and interests.
-
+- Live Site URL: [Interactive rating component](https://alidurul.github.io/Frontend-Mentor-Projects/Interactive%20rating%20component/)
+- 
+##Author
+- Frontend Mentor - [@AliDurul](https://www.frontendmentor.io/profile/DURUL-26)
+- Githup - [@AliDurul](https://github.com/AliDurul)
 
 ## Feedback and Collaboration
 I value your feedback and suggestions. If you have any comments, questions, or ideas for improvement regarding this project or any of my other projects, please don't hesitate to reach out. I'm always open to collaboration and welcome the opportunity to work on exciting projects together.
