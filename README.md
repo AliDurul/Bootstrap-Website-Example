@@ -21,6 +21,8 @@ If you enjoyed exploring this project, I invite you to check out my other projec
 
 [Interactive rating component](https://alidurul.github.io/Frontend-Mentor-Projects/Interactive%20rating%20component/)
 
+[QR code component](https://alidurul.github.io/Frontend-Mentor-Projects/Qr-Code-Component/)
+
 Feel free to explore these projects at your convenience. Each one offers a unique experience and showcases different aspects of my skills and interests.
 
 ##Author
