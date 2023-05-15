@@ -7,7 +7,7 @@ Firstly, I want to let you know that I am a new learner in the world of programm
 
 # Frontend Mentor challenges 
 In this Repository You will find the solutions to the :
-- [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
+- [Challenges I did on Frontend Mentor](https://www.frontendmentor.io/profile/DURUL-26/solutions). 
 
 
 ## Check Out My Projects at Frontend Mentor
